@@ -32,7 +32,7 @@ public class TestConfig implements CommandLineRunner {
 
 	@Autowired
 	private CategoryRepository cateroryRepository;
-	
+	 
 	@Autowired
 	private ProductRepository productRepository;
 	
